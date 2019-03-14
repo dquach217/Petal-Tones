@@ -34,3 +34,14 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Private Keys
+privatekey
+
+# MPK & exec
+*.mpk
+com.*
+
+#Misc
+.collabignore
+.out/
